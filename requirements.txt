@@ -1,0 +1,9 @@
+tensorflow
+transformers
+nltk
+pandas
+numpy
+matplotlib
+scikit-learn
+flask
+datasets
